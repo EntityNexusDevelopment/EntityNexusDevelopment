@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm EntityNexusDevelopment 👋
 
-<!--
-**EntityNexusDevelopment/EntityNexusDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a backend-focused developer and AI enthusiast dedicated to building intelligent, scalable systems. I specialize in turning complex data into actionable insights through robust APIs and machine learning models.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Python (Primary), SQL
+* **AI/ML:** TensorFlow, Keras, Scikit-learn
+* **Web Frameworks:** FastAPI, Flask
+* **Data Tools:** Pandas, NumPy, PostgreSQL
+* **DevOps:** Docker, Git, CI/CD pipelines
+
+### 🚀 What I'm Currently Working On
+- Optimizing neural network performance for real-time API inference.
+- Developing asynchronous microservices with FastAPI.
+
+### 📫 Let's Connect
+- alexsainelerk.ai.development@gmail.com
